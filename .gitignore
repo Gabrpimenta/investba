@@ -7,7 +7,7 @@ node_modules/
 /coverage
 
 # Next.js
-.next/
+/.next/
 /out/
 
 # Production build (we'll exclude dist from git since it's generated)
