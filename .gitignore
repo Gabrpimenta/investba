@@ -13,6 +13,9 @@ node_modules/
 # Production build (we'll exclude dist from git since it's generated)
 /dist
 
+# Documentation/Instructions (not part of source code)
+/github/
+
 # Misc
 .DS_Store
 *.pem
